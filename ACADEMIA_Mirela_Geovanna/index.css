@@ -1,0 +1,19 @@
+body{
+    background-color: #262129;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nome1{
+    color: #cf0139;
+}
+
+#nome2{
+    color: #5f575f;
+}
+
+#nome3{
+    color: #83797e;
+}
+#menu{
+    background-color: #83797e !important;
+}
